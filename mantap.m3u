@@ -27,4 +27,4 @@ https://www.useetv.com/livetv/antv
 #EXTINF:-1,group-title="LOKAL" FOXSPORT 1
 https://livestream.ekranet.com/rtshsport1
 #EXTINF:-1,group-title="FOXSPORT 2"
-http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8?e=d8d3d1546951f1c0279c4398dcc38707&c=rtshsport_240p&medium=websocket
+http://websocket.ekranet.com/livestream_channel?c=rtshsport_240p&title=rtshsport_240p&s=//edge01eu.ekranet.com/rtshsport_240p/index.m3u8&tag=my_video_1&f=d8d3d1546951f1c0279c4398dcc38707&w=1440&h=900&autoplay=no
