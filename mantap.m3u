@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1,group-title="LOKAL"I News
+http://202.80.222.173/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,group-title="LOKAL"RCTI https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
+#EXTINF:-1,group-title="LOKAL"GTV https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
+#EXTINF:-1,group-title="LOKAL" MNCTV https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
+#EXTINF:-1,group-title="LOKAL"SCTV HD http://id1.indostreamingtv.com/live/sctv/index.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1,group-title="LOKAL"METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1,group-title="LOKAL" NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,group-title="LOKAL" NET TV 
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,group-title="LOKAL" NET TV HD
+ http://id2.indostreamingtv.com/live/nettv/index.m3u8
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1,group-title="LOKAL" CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" CNBC 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,group-title="LOKAL" ANTV
+https://www.useetv.com/livetv/antv
+#EXTINF:-1,group-title="LOKAL" FOXSPORT 1
+https://livestream.ekranet.com/rtshsport1.m3u8
